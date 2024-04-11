@@ -28,3 +28,4 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/RuchitraThiyagaraj/Correlation_Regression/assets/154776996/c943279a-f95c-489c-b8e4-2941ba737f65)
 
 # Output 
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
